@@ -3,7 +3,7 @@ En aquesta carpeta d'entrega hi trobem:
 Part 1: MaxScript
 	-El codi és al document MVD_Final.ms 
 	-El codi requereix del model car.FBX	 
-	-El codi pot donar errors en escenes de 3ds max noves a la primera execució, cal executar-lo dues vegades.
+	IPORTANT: El codi pot donar errors en escenes de 3ds max noves a la primera execució, cal executar-lo dues vegades.
 
 Part 2: Engine
 	1)
@@ -18,6 +18,7 @@ Part 2: Engine
 	-La carpeta del motor és: /Alun_Alberto_Dev_ADDCOMPONENT.
 	
 	2)
+	-El codi per afegir components propis es poden trobar dins de la carpeta /Adding_Component_MaxScript.
 	-El proces per afegir el component dins a 3ds max esta explicat amb detalls i imatges al ReadMe.pdf.
 	-El proces per llegir el component dins al motor esta explicat amb detalls i imatges al ReadMe.pdf.
 	-El proces per mostrar el component a la UI esta explicat amb detalls i imatges al ReadMe.pdf.
@@ -28,3 +29,5 @@ Part 2: Engine
 
 
 IMPORTANT: Cada exercici esta explicat amb detall i imatges al document Alex_Cordon.pdf
+
+Àlex Cordón Vila
